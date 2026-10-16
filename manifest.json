@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "School Hunter — Student System",
+  "short_name": "School Hunter",
+  "description": "A Solo Leveling-inspired school progress dashboard.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d0c13",
+  "theme_color": "#11101a",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
